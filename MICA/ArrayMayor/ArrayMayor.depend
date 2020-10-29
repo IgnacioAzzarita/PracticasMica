@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603913901 source:c:\users\gladys\desktop\carpeta clon git\arraymayor\main.c
+	<stdio.h>
+	<stdlib.h>
+
